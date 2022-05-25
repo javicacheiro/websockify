@@ -1,6 +1,6 @@
 mock
 nose
-jwcrypto
+jwcrypto==1.2
 six
 redis
 simplejson
